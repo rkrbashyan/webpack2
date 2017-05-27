@@ -1,6 +1,11 @@
 {
     "presets": [
-        ["es2015", { "modules" : false}], // for tree shaking to work
+        [
+            "es2015",
+            {
+                "modules": false
+            }
+        ], // for tree shaking to work
         "stage-0"
-        ]
+    ]
 }
